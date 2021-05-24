@@ -1,0 +1,21 @@
+{
+  "name": "Chapter-Fifteen(ES6)2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^8.2.2",
+    "babel-register": "^6.26.0",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack-cli": "^4.7.0",
+    "webpack": "^5.36.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":" webpack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
